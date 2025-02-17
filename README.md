@@ -4,9 +4,9 @@ Github README
 
 ## Table of contents
 
-1. Information
-   2. What and how
-      3. Troubleshooting
+1. First
+2. We should
+3. Make strong coffee
 
 ## Project description
 
